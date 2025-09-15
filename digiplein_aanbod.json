@@ -1,0 +1,794 @@
+{
+  "DIGI-BUDDY": [
+    {
+      "Thema": "Blockchain",
+      "Titel": "RIO-pagina Blockchain",
+      "Beschrijving": "Betrouwbare technologie voor veilige en transparante uitwisseling van gegevens",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/A1cgOkKZIUOBGJ2iQJGg8Q",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, betrouwbaarheid, blockchain, informatie-uitwisseling, informatiebeveiliging,  technologie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Waarom Datagedreven werken?",
+      "Beschrijving": "In deze video leer je in  2,5 minuten wat Datagedreven werken betekent.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://vimeo.com/766013050/1cbcfe22ef",
+      "Vorm": "Video",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, inzicht, kijken, kort, uitleg, video, DGW, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "RIO-groep Geen woorden maar data",
+      "Beschrijving": "In deze RIO-groep delen we alles rondom werken op basis van data. Zo maken we met elkaar van Rotterdam een datagedreven organisatie.",
+      "Persona": "Kenniswerkers",
+      "URL": "https://rio.rotterdam.nl/Project/InformatiegestuurdWerkenIGW/Pages/pjFcomH_l0GUqefRA3pMhA",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, analyse, data, datagedreven, informatie, informatie-uitwisseling, inzicht, kennisdelen, netwerk, DGW, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Adviseren met data (leerpad)",
+      "Beschrijving": "Dit leerpad met diverse trainingen is voor adviseurs die data willen inzetten in hun advies. ",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/learning-tracks/41385",
+      "Vorm": "Leerpad",
+      "Niveau": "Basis",
+      "Zoekwoorden": "advies, adviseren, algoritmen, analyse, analyse gebruiken, data, datagedreven, informatie, inzicht, kunstmatige intelligentie, technologie, DGW, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Data in beleid (leerpad)",
+      "Beschrijving": "Dit leerpad met diverse trainingen is voor adviseurs die data willen inzetten in beleidsontwikkeling. ",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/439693/data-in-beleid",
+      "Vorm": "Leerpad",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, beleid, beleidsontwikkeling, data, datagedreven, informatie, DWG, beleidsadviseur, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Basiscursus Excel",
+      "Beschrijving": "Leer snel navigeren, sorteren, filteren en highlighten in Excel. Werk met datatypen zoals datum, tijd, getallen en tekst.",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/110142",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, excel, filteren, formules, rekenblad, spreadsheet, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Moordspel de Brug",
+      "Beschrijving": "Een misdaad op de Erasmusbrug! Gebruik data en analyse om de dader te vinden in 90 minuten—hoe sneller, hoe beter. Na afloop bespreek je je bevindingen en de waarde van datagedreven werken. ",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/110288",
+      "Vorm": "Workshop",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, interactief, inzicht, oefenen, serious game, spelenderwijs, DWG, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Caleidoscoop",
+      "Beschrijving": "Caleidscoop is een serious game waarin je leert om data-vraagstukken vanuit verschillende perspectieven te bekijken",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/110181",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, interactief, inzicht, kennisdelen, oefenen, serious game, spelenderwijs, DWG, Caleidoscoop, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Datapoly",
+      "Beschrijving": "Datapoly is een serious game waarin je spelenderwijs ontdekt waarom goed datamanagement belangrijk is voor veilig en verantwoord werken met data.",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/110409",
+      "Vorm": "Groeptraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "data, datagedreven, interactief, inzicht, kennisdelen, netwerk, oefenen, serious game, spelenderwijs, DWG, datamanagement, Datapoly, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Laat data voor je werken ",
+      "Beschrijving": "In drie groepsessies leer je als leidinggevende de Rotterdamse visie op datagedreven werken en hoe je dit toepast. We verkennen de strategische waarde van data en de impact op jouw team of afdeling. ",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/110243",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, inzicht, DWG, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Datakwaliteit",
+      "Beschrijving": "Alleen met kwalitatief goede data kunnen we gebruik maken van de schat aan data die de gemeente Rotterdam tot haar beschikking heeft en kunnen we het gewenste effect op stad waarmaken. In deze e-learning leer je daarom waarom kwalitatief goede data belangrijk en leer je hoe je datakwaliteit kunt borgen en verbeteren.",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/439066/datakwaliteit",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, inzicht, DWG, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Maak kennis met het DACC",
+      "Beschrijving": "Wie of wat is het Data Analyse Competentie Centrum? Bekijk deze korte animatie-video om erachter te komen.",
+      "Persona": "Kenniswerkers",
+      "URL": "https://vimeo.com/736849496/5e96254b6a",
+      "Vorm": "Video",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, instructie, inzicht, kijken, kort, uitleg, video, DWG, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Data interpretatie",
+      "Beschrijving": "In deze e-learning maak je door middel van praktijkvoorbeelden kennis met het gebruik van data in beleid en delen we een aantal veel voorkomende valkuilen bij het interpreteren van data. Ook frissen we je kennis van de basisbegrippen statistiek op en krijg je tips over hoe je je inzichten kunt overbrengen met datavisualisatie.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/439694/data-interpretatie",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, beleid, beleidsontwikkeling, data, datagedreven, informatie, inzicht, onderbouwen, DWG, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Informatieveiligheid & privacy",
+      "Beschrijving": "Leer hoe je als medewerker van Gemeente Rotterdam zorgvuldig omgaat met gegevens en bijdraagt aan informatieveiligheid en privacy.",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/439683/basismodule-informatieveiligheid-privacy",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AVG, informatiebeveiliging, privacy, veilig werken, BlijfAlert, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Minimodule Datalekken",
+      "Beschrijving": "Leer in 8 minuten datalekken herkennen, melden en voorkomen. Test je alertheid solo of met collega's. ",
+      "Persona": "Kenniswerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/439852/minimodule-datalekken",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, inzicht, , DWG, BlijfAlert, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie Basis",
+      "Titel": "Data & Compliance Algoritmes\n",
+      "Beschrijving": "Ontdek in deze e-learning hoe je verantwoord omgaat met algoritmes en hun toepassingen",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/learning-tracks/41386",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, inzicht, DWG, Data Academie"
+    },
+    {
+      "Thema": "DataAcademie voor specialisten",
+      "Titel": "RIO-pagina Verschil BI, BA en DS?",
+      "Beschrijving": "Wat is het verschil tussen Business Intelligence, Business Analytics en Data Science? Lees op RIO hoe ze elkaar aanvullen in datagedreven werken.",
+      "Persona": "PowerUser Selfservice",
+      "URL": "https://rio.rotterdam.nl/Project/SelfserviceBI/Pages/z5OZSRMIbkunOc5XNhqhRA",
+      "Vorm": "Informatie",
+      "Niveau": "Gevorderd",
+      "Zoekwoorden": "RIO, analyse, data, datagedreven, informatie, informatie-uitwisseling, inzicht, kennisdelen, netwerk, Data Academie specialist, Business Analytics, Data Science, Business Intelligence"
+    },
+    {
+      "Thema": "DataAcademie voor specialisten",
+      "Titel": "SSBI Community",
+      "Beschrijving": "Wordt lid van de SSBI Community (MS Teams) om samen met collega's kennis te delen, vragen te stellen en te leren over Self Service BI.",
+      "Persona": "PowerUser Selfservice",
+      "URL": "https://teams.microsoft.com/l/team/19%3aqVPmumx8GFBLcLyLbNTI9bKbp2c1NR9nJPG7f5Gpf6A1%40thread.tacv2/conversations?groupId=ab59c1a1-ada5-4f2c-9b37-006b07fb3dcb&tenantId=49c4cd82-8f65-4d6a-9a3b-0ecd07c0cf5b",
+      "Vorm": "Informatie",
+      "Niveau": "Gevorderd",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, informatie-uitwisseling, inzicht, kennisdelen, netwerk, Data Academie specialist, SSBI"
+    },
+    {
+      "Thema": "DataAcademie voor specialisten",
+      "Titel": "Power BI basis",
+      "Beschrijving": "Ontdek hoe je met Power BI data kunt omzetten in waardevolle inzichten. Of je nu adviseur, administratief medewerker of projectleider bent, Self Service BI helpt je jouw vraagstukken te visualiseren en te delen.",
+      "Persona": "PowerUser Selfservice",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/110320",
+      "Vorm": "Groepstraining",
+      "Niveau": "Gevorderd",
+      "Zoekwoorden": "Power BI, analyse, data, datagedreven, grafieken, informatie, inzicht, presentatie, visualisatie, Data Academie specialist"
+    },
+    {
+      "Thema": "DataAcademie voor specialisten",
+      "Titel": "Power BI gevorderd",
+      "Beschrijving": "Verdiep je in data modelleren en visualiseren met Power BI. Ontsluit het datawarehouse, ontdek Rotterdamse best practices en presenteer data effectief. Voor wie de basis beheerst en meer uit Power BI wil halen.",
+      "Persona": "PowerUser Selfservice",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/110397",
+      "Vorm": "Groepstraining",
+      "Niveau": "Gevorderd",
+      "Zoekwoorden": "Power BI, analyse, data, datagedreven, grafieken, informatie, inzicht, presentatie, Data Academie specialist"
+    },
+    {
+      "Thema": "DataAcademie voor specialisten",
+      "Titel": "Maak kennis met DACC",
+      "Beschrijving": "Wie of wat is het Data Analyse Competentie Centrum? Bekijk deze korte animatie-video om erachter te komen.",
+      "Persona": "PowerUser Selfservice",
+      "URL": "https://vimeo.com/736849496/5e96254b6a",
+      "Vorm": "Video",
+      "Niveau": "Gevorderd",
+      "Zoekwoorden": "analyse, data, datagedreven, informatie, instructie, inzicht, kijken, kort, uitleg, video, DWG , Data Academie specialist"
+    },
+    {
+      "Thema": "DataAcademie voor specialisten",
+      "Titel": "Privacyframework",
+      "Beschrijving": "De AVG verplicht organisaties om zorgvuldig met persoonsgegevens om te gaan. Het privacyframework helpt je inzicht te krijgen in de stappen die nodig zijn om te voldoen aan wet- en regelgeving, van grondslag en governance tot informatiebeheer en security.",
+      "Persona": "Data Specialist",
+      "URL": "https://rio.rotterdam.nl/Project/InformatiegestuurdWerkenIGW/Documents?path=%2F9.%20Strategie%20en%20beleid%2FCompliance%20beleid",
+      "Vorm": "Informatie",
+      "Niveau": "Gevorderd",
+      "Zoekwoorden": "Privacyframework, AVG, regelgeving, governance, Data Academie specialist, Data Specialist"
+    },
+    {
+      "Thema": "DataAcademie voor specialisten",
+      "Titel": "Privacyframework",
+      "Beschrijving": "De AVG verplicht organisaties om zorgvuldig met persoonsgegevens om te gaan. Het privacyframework helpt je inzicht te krijgen in de stappen die nodig zijn om te voldoen aan wet- en regelgeving, van grondslag en governance tot informatiebeheer en security.",
+      "Persona": "Compliance specialist",
+      "URL": "https://rio.rotterdam.nl/Project/InformatiegestuurdWerkenIGW/Documents?path=%2F9.%20Strategie%20en%20beleid%2FCompliance%20beleid",
+      "Vorm": "Informatie",
+      "Niveau": "Gevorderd",
+      "Zoekwoorden": "Privacyframework, AVG, regelgeving, governance, Data Academie specialist, Compliance specialist"
+    },
+    {
+      "Thema": "Digitaal leiderschap",
+      "Titel": "RIO-groep Rotterdams Leiderschap",
+      "Beschrijving": "Wat betekent Rotterdams leiderschap voor jou in een complexe wereld vol verandering?",
+      "Persona": "Leidinggevenden",
+      "URL": "https://rio.rotterdam.nl/Project/BouwmeeaanRotterdamsLeiderschap",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk, Rotterdams Leiderschap, RL, Digitaal leiderschap"
+    },
+    {
+      "Thema": "Digitaal leiderschap",
+      "Titel": "Digitale transformatie",
+      "Beschrijving": "Wat hebben alle succesvolle bedrijven van deze tijd gemeen? In de Masterclass ‘Digitale Transformatie’ geeft Jim Stolze het antwoord.",
+      "Persona": "Leidinggevenden",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/21881/digitale-transformatie",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Digitale transformatie, Rotterdams leiderschap"
+    },
+    {
+      "Thema": "Digitaal leiderschap",
+      "Titel": "Masterclass Digitaal leiderschap",
+      "Beschrijving": "In deze Masterclass ontdek je welke kennis en vaardigheden je als moderne bestuurder, manager of beleidsmedewerker nodig hebt om effectief sturing te geven aan de digitale transformatie van je organisatie, afdeling of beleidsveld. Zo leer je om op basis van een coalitieakkoord, beleid en wetgeving een strategische koers uit te zetten rondom digitalisering. Ook ontdek je hoe je deze implementeert in je organisatie en hoe je bestuurders en stakeholders hierbij betrekt.",
+      "Persona": "Leidinggevenden",
+      "URL": "https://sofie-rotterdam.studytube.nl/classroom-trainings/51852",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": " digitale vaardigheden, digitaal leiderschap, Rotterdams leiderschap"
+    },
+    {
+      "Thema": "Digitaal leiderschap",
+      "Titel": "Leergang Digitaal leiderschap",
+      "Beschrijving": "In deze leergang ontdek je de succesfactoren van digitaal leiderschap. Je krijgt onder meer inzicht in de belangrijkste elementen van een digitale transformatie. Ook leer je wat je rol als leidinggevende is binnen dit transformatietraject. Daarnaast komen onderwerpen als innovatie, strategievorming en beleidsvorming uitvoerig aan bod. Zo ga je met vertrouwen de digitale toekomst tegemoet.",
+      "Persona": "Leidinggevenden",
+      "URL": "https://sofie-rotterdam.studytube.nl/classroom-trainings/51866",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": " digitale vaardigheden, digitaal leiderschap, Rotterdams leiderschap"
+    },
+    {
+      "Thema": "Digitale Fitheid",
+      "Titel": "Inspiratiesessie Digitale Fitheid\n",
+      "Beschrijving": "Ga samen met je team op ontdekkingsreis naar wat digitale fitheid is en hoe je deze kunt versterken",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/ipJmz9lSVE691cwisanGYQ",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "digitale fitheid, ontwikkeling, vaardigheden, zelfredzaamheid, Inspiratie"
+    },
+    {
+      "Thema": "Digitale Fitheid",
+      "Titel": "Escaperoom Digitale Fitheid\n",
+      "Beschrijving": "Ontdek spelenderwijs hoe digitaal fit je bent en welke Future Work Skills belangrijk zijn in deze online game",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/7ic-qqJdykm7iCirSHtKIQ",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "digitale fitheid, interactief, oefenen, ontwikkeling, serious game, spelenderwijs, vaardigheden, zelfredzaamheid, escaperoom"
+    },
+    {
+      "Thema": "Digitale Fitheid",
+      "Titel": "RIO-groep Future Work Skills & Digitale Fitheid",
+      "Beschrijving": "De wereld verandert in rap tempo. Alles gaat razendsnel, vooral de digitalisering. Dat beïnvloedt ons dagelijkse leven én ons werk. Om ons werk goed te kunnen (blijven) doen moeten we ‘een leven lang leren’.\nFuture Work Skills (FWS) zijn vaardigheden die we nodig hebben om nu en in de toekomst ons werk goed te kunnen blijven doen. Als we ons werk optimaal kunnen blijven doen, kunnen we de Rotterdammers de beste (digitale) dienstverlening blijven bieden. Een voorwaarde daarvoor is dat we goed zijn toegerust voor onze taken, dat we digitaal fit zijn. Wat hebben we nodig aan nieuwe vaardigheden en kennis om toekomstbestendig te zijn? Welke kansen en mogelijkheden zijn er? En welke bedreigingen en onmogelijkheden zijn er door de snelle veranderingen en digitalisering? Dat willen we samen ontdekken",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, digitale fitheid, digitale vaardigheden, informatie-uitwisseling, kennisdelen, netwerk, ontwikkelen, ontwikkeling, vaardigheden, zelfredzaamheid"
+    },
+    {
+      "Thema": "Digitale Fitheid",
+      "Titel": "Nepnieuws herkennen",
+      "Beschrijving": "Zie jij het verschil tussen echt nieuws en nepnieuws? Laat je niet voor de gek houden en volg de training ‘Nepnieuws herkennen’.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/8822/nepnieuws-herkennen",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, kunstmatige intelligentie, technologie, Nepnieuws, Deepfake, desinformatie"
+    },
+    {
+      "Thema": "Digitale Fitheid",
+      "Titel": "Workshop Nepnieuws detective",
+      "Beschrijving": "Vraag jij je ook wel eens af hoe je nepnieuws en online misleiding kunt spotten? Doe dan mee aan de workshop Nepnieuws Detectives. In deze interactieve sessie transformeren we sámen in speurders om de mysteries van digitale desinformatie te ontrafelen. ",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/2xl9qgTJ9kCKRz3VjtAHdg",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, Nepnieuws, Nepniews Detective, Deepfake, desinformatie"
+    },
+    {
+      "Thema": "Digitale Stad",
+      "Titel": "Digitale Stad",
+      "Beschrijving": "Ontdek hoe slimme technologieën Rotterdam toekomstbestendig maken.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://www.rotterdam.nl/digitale-stad",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Digitale Stad, slimme technologie, Rotterdam"
+    },
+    {
+      "Thema": "Digitale Stad",
+      "Titel": "RIO-pagina Digitale Economie",
+      "Beschrijving": "De digitale economie is de motor achter innovatie en groei in Rotterdam. Ontdek hoe technologie onze stad toekomstbestendig maakt en welke kansen dit biedt.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/RotterdamDigitaal/Pages/Wwweluu_BEqUGE4tZbUwtg",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk, Digitale Economie, Rotterdam, Digitale Stad"
+    },
+    {
+      "Thema": "Digitale Stad",
+      "Titel": "RIO-groep Identity Access Management",
+      "Beschrijving": "Identity Access Management (IAM) zorgt ervoor dat alleen de juiste personen of systemen toegang hebben tot de juiste informatie en applicaties. ",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/IAM",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk, IAM, Identity Access Management, systemen, Digitale Stad"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "OneDrive E-learning",
+      "Beschrijving": "In deze training leer je onder andere wat de basisbeginselen van OneDrive zijn, hoe je documenten deelt met collega’s en hoe je OneDrive het beste kunt gebruiken. \nDe training is geschikt voor iedereen: of je nu voor het eerst met OneDrive werkt of je jouw kennis wilt opfrissen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/442264",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "digitaal samenwerken, documenten delen, overleggen,  versiebeheer, OneDrive, koppeling delen"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "OneDrive handleiding",
+      "Beschrijving": "In 2025 verhuizen we onze bestanden en documenten van de netwerkschijven naar OneDrive en Teams. Op de Sharepoint pagina van Jouw Digitale Werkomgeving vind je diverse leerzame handleidingen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rotterdam.sharepoint.com/sites/DigitaleWerkplek/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FDigitaleWerkplek%2FGedeelde%20documenten%2FSamenwerken%20in%20Microsoft%20365&viewid=1ac3c28c%2D023a%2D493e%2D99c2%2D8e04d337e5db",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "digitaal samenwerken, documenten delen, overleggen, sharepoint, versiebeheer, OneDrive, koppeling delen, handleiding OneDrive"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "Outlook",
+      "Beschrijving": "Outlook kan veel meer dan alleen e-mails versturen. In deze les ontdek je nieuwe functies die je veel tijd besparen! Let op: In deze training wordt Outlook 365 op een pc gebruikt. Als je een Mac gebruikt, ziet het programma er anders uit. Maar geen zorgen, de functies werken hetzelfde.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/398010/microsoft-outlook",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": " e-mail, outlook, plannen, agenda, takenlijst"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "Powerpoint",
+      "Beschrijving": "Ken jij alle ins en outs van PowerPoint al? Met deze training tover je een verzameling lege dia’s om tot een puntgave presentatie.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/40311/microsoft-365-powerpoint",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Presentatie, powerpoint"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "Word",
+      "Beschrijving": "Beheers jij Word tot in perfectie? Met deze training tover je platte tekst om tot een puntgaaf professioneel document. Let op: In deze training wordt Word 365 op een pc gebruikt. Als je een Mac gebruikt, ziet het programma er anders uit. Maar geen zorgen, de functies werken hetzelfde.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/37797/microsoft-365-word",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Word, documenten bewerken"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "Excel Basis",
+      "Beschrijving": "Wil jij het maximale uit Excel halen? In deze training leer je hoe je je data omzet in een spetterend dashboard en deelt met Office 365 op de pc.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/436141/microsoft-excel",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": " excel, filteren, formules, informatie, rekenblad, spreadsheet, "
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "OneNote",
+      "Beschrijving": "Brainstormen over nieuwe ideeën, recepten verzamelen voor je kookboek of een moodboard maken voor je thuiskantoor: het kan allemaal met OneNote!",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/33442/microsoft-365-onenote",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "digitaal noteren, notities, onenote"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "MS Teams basis",
+      "Beschrijving": "Til je samenwerking naar een hoger niveau. Maak kennis met Teams: dé samenwerkingsapp van Microsoft.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/397900/microsoft-365-teams",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "digitaal samenwerken, overleggen, teams, videobellen, MS Teams"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "Samenwerken in Microsoft 365",
+      "Beschrijving": "Werk efficiënt samen. Ga aan de slag met Teams, To Do, Outlook en meer via een handige e-learning van Goodhabitz.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/22062/microsoft-365-samenwerken",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "digitaal samenwerken, overleggen, Microsoft 365, Office, MS365, To Do, Outlook, Planner"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "Jouw digitale werkomgeving op RIO",
+      "Beschrijving": "De afdeling ICT zorgt ervoor dat jij snel, veilig en makkelijk kunt werken, overal en op elk tijdstip. Hiervoor zijn we constant in beweging. Lees op RIO over de geplande ontwikkelingen rondom jouw digitale werkplek.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/umbraco/informatieportaal/werkplek-applicaties-middelen/ontwikkelingen-voor-jouw-digitale-werkomgeving/",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk"
+    },
+    {
+      "Thema": "Digitale Werkomgeving",
+      "Titel": "Rio groep Microsoft 365 #Samenleren",
+      "Beschrijving": "Op RIO leren we sámen de fijne kneepjes van de Microsoft Office 365-omgeving. Heb je een vraag aan collega's? Stel deze dan in de tijdlijn. Weet je het antwoord? Geef deze dan als reactie onder de vraag, zodat de andere collega’s mee kunnen lezen en leren.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/MicrosoftTeamstipsinformatie",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk, Tips en tricks, MS365, Microsoft 365"
+    },
+    {
+      "Thema": "DIVA",
+      "Titel": "Diva Kennisportaal",
+      "Beschrijving": "In het Kennisportaal op RIO vind je de richtlijnen, contactpersonen en meer informatie om met DIVA te werken.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/umbraco/informatieportaal/processen-data-en-informatie/kennisportalen/kennisportaal-diva/",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, Archiefbeheer, Archiefwet, DIVA, Bestanden bewaren"
+    },
+    {
+      "Thema": "DIVA",
+      "Titel": "Diva Training",
+      "Beschrijving": "Volg een training en leer werken met DIVA, het Document Management Systeem voor veilig samenwerken en archiveren binnen de gemeente Rotterdam",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/events/109977",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, Archiefbeheer, Archiefwet, DIVA, Bestanden bewaren"
+    },
+    {
+      "Thema": "Future Work Skills ",
+      "Titel": "Mindset",
+      "Beschrijving": "Mindset gaat over jouw houding en manier van denken. Met een groeimindset blijf je nieuwsgierig, leer je graag, toon je doorzettingsvermogen en durf je iets nieuws te proberen. Dat wordt steeds belangrijker in ons werk.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/NCvnFvjQmU6dX-Y5FsJ6DQ",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Nieuwsgierigheid, doorzettingsvermogen, groei-mindset, mindset, Future Work Skills, FWS, gedrag"
+    },
+    {
+      "Thema": "Future Work Skills ",
+      "Titel": "Kritisch \ndenken",
+      "Beschrijving": "Kritisch denken is zelf afwegen, oordelen en beslissen. Dat vraagt om logisch denken, openstaan voor anderen en reflectie op je eigen handelen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/d13v4tXtC0mlK_Sv9BuYTw",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Future Work Skills, Kritisch denken, reflecteren"
+    },
+    {
+      "Thema": "Future Work Skills ",
+      "Titel": "Complexe \nproblemen \noplossen",
+      "Beschrijving": "Zijn er nog makkelijke problemen? De meeste zijn complex en vragen om een doordachte aanpak met collega’s en partners.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/oYPegy5b30WmSIXc0r5KYA",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Future Work Skills, compleze problemen"
+    },
+    {
+      "Thema": "Future Work Skills ",
+      "Titel": "Multidisciplinair \nsamenwerken",
+      "Beschrijving": "Multidisciplinaire samenwerking is samenwerken met mensen uit andere vakgebieden om complexe vraagstukken vanuit verschillende invalshoeken te benaderen. Door kennis uit te wisselen en elkaars expertise te benutten, kom je tot betere oplossingen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/JOrCVfD8zkCmF0NKkkIBuw",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Future Work Skills, Multidisciplainair samenwerken, samenwerken"
+    },
+    {
+      "Thema": "Future Work Skills ",
+      "Titel": "Sociale en \nemotionele \nintelligentie",
+      "Beschrijving": "Sociale en emotionele intelligentie is de combinatie van gevoel, communicatie, vaardigheden en zelfkennis. Het helpt je beter samen te werken, doelgericht te blijven en om te gaan met druk en tegenslagen, met respect en inlevingsvermogen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/xRGLi_Q0NEu0-uMdmKRuFQ",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Future Work Skills, Sociale en emotionele intelligentie, communicatie, respect, inlevingsvermogen"
+    },
+    {
+      "Thema": "Future Work Skills ",
+      "Titel": "Creatief denken \nen handelen",
+      "Beschrijving": "Creatief denken is anders durven kijken en doen. Je zoekt oplossingen buiten de gebaande paden, denkt mee vanuit de burger en werkt samen om nieuwe mogelijkheden te ontdekken. Dat vraagt oefening, inspiratie en lef.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/c4YOtO_Lk0iyKBEqvBsEmQ",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Future Work Skills, creatief denken en handelen, creativiteit, anders denken, out of the box"
+    },
+    {
+      "Thema": "Future Work Skills ",
+      "Titel": "Service \ngerichtheid",
+      "Beschrijving": "Bij servicegerichtheid denk je vanuit de klant: wat heeft die nodig? En als je praat of schrijft met de klant, doe dat dan inlevend, zoek de vraag achter de vraag en verplaats jezelf in de situatie van die klant. Een klant kan een Rotterdamse inwoner, ondernemer of bezoeker zijn, maar ook je collega.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/-aIG0ovENESWMhS9WewQMQ",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Future Work Skills, servicegerichtheid, klantgericht, inlevingsvermogen"
+    },
+    {
+      "Thema": "Informatievaardigheden",
+      "Titel": "Informatie veiligheid & privacy vervolg",
+      "Beschrijving": "In deze aanvullende module gaat over jouw rol als ambassadeur als het gaat om informatieveiligheid en privacy. Jij bent namelijk een aanspreekpunt voor je collega’s rondom vragen over deze onderwerpen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/439680/aanvullende-module-informatieveiligheid-privacy-voor-ambassadeurs",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AVG, informatiebeveiliging, privacy, veilig werken, informatievaardigheden, ambassadeur"
+    },
+    {
+      "Thema": "Informatievaardigheden",
+      "Titel": "RIO-groep Informatiehuishouding",
+      "Beschrijving": "Heb je een vraag over informatie? Stel deze dan aan de afdeling Service Ondersteuning Informatiehuishouding",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/SOIServiceOndersteuningInformatiehuishouding",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk, informatievaardigheden, SOI"
+    },
+    {
+      "Thema": "Informatievaardigheden",
+      "Titel": "RIO-pagina Hulpmiddelen gegevensbescherming",
+      "Beschrijving": "Op deze RIO-pagina vind je diverse hulpmiddelen voor het veilig werken met vertrouwelijke informatie. Ook lees je hier meer over wat je zelf kan doen om  jouw (online) privacy te beschermen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/BlijfAlert/Pages/DUxkG3-BMU-8NNxAyBfj-A",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AVG, RIO, informatie-uitwisseling, informatiebeveiliging, kennisdelen, netwerk, privacy, veilig werken, BlijfAlert"
+    },
+    {
+      "Thema": "Informatievaardigheden",
+      "Titel": "RIO-pagina Cybersecurity",
+      "Beschrijving": "Wij blijven alert op het beschermen van gegevens. Lees meer over informatieveiligheid en privacy in de RIO-groep van #BlijfAlert",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/BlijfAlert",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AVG, RIO, informatie-uitwisseling, informatiebeveiliging, kennisdelen, netwerk, privacy, veilig werken, Cybersecurity, BlijfAlert"
+    },
+    {
+      "Thema": "Informatievaardigheden",
+      "Titel": "RIO-pagina Mediawijsheid",
+      "Beschrijving": "In de RIO-groep van Future Work Skills lees je wat Mediawijsheid inhoudt en hoe je dit kunt versterken",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/wlmqVzS3O02chs5Gdwz7pw",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk, mediawijsheid, nep of echt, digitale fitheid"
+    },
+    {
+      "Thema": "Informatievaardigheden",
+      "Titel": "RIO-pagina Informatievaardigheden",
+      "Beschrijving": "In de RIO-groep van Future Work Skills lees je wat Informatievaardigheden inhoudt en hoe je dit kunt versterken",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/61BuaqxjmUC4RyhoTd1Cmg",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, digitaal werken, digitale vaardigheden, informatie-uitwisseling, kennisdelen, netwerk, ontwikkelen, digitale fitheid, Informatievaardigeheden"
+    },
+    {
+      "Thema": "Internet der Dingen",
+      "Titel": "RIO-pagina Internet der Dingen",
+      "Beschrijving": "Verbonden sensoren voor een slimmer en veiliger Rotterdam",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/ip0rFw8f_k6aXzpEcwp10A",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, IoT, Internet der Dingen, Digitale Fitheid"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Inspiratiesessie AI (Toekomst van werk)\n",
+      "Beschrijving": "Ontdek samen met jouw collega's hoe AI jullie  werk en onze stad kan transformeren.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/QyJEJ95VdUCVJFO18d3npg",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, Inspiratie, Toekomst van werk"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Workshop Generatieve AI",
+      "Beschrijving": "Leer hoe jij en je team je veilig en verantwoord experimenteert met prompten in tools als Copilot en andere egeneratieve AI",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/-AkvUmUVTkWjiXue1zn88A",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI,  kunstmatige intelligentie, experimenteren, ChatGPT, Copilot, Generatieve AI, GenAI, AI-geletterdheid, bewustwording"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Workshop Teamvisie AI",
+      "Beschrijving": "Leidinggevende worden ondersteunt op het bewust omgaan met AI binnen hun afdeling en het verkennen van ethische en organisatorische vraagstukken.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/k4_Ewu1pM0eCBKhRlwa_Qw",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Teamvisie AI, kunstmatige intelligentie, SPP, jaarplan, afdeling, team"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Escaperoom AI",
+      "Beschrijving": "Per 1 november:\nOntdek spelenderwijs wat AI is, hoe het werkt en welke vaardigheden jij nodig hebt om er bewust mee om te gaan in deze online escaperoom vol spanning, keuzes en teamwork.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/36QOa0C7xk-yVD14gdOHBA",
+      "Vorm": "Groepstraining",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, AI-geletterdheid, interactief, kunstmatige intelligentie, oefenen, ontwikkelen, serious game, spelenderwijs, technologie, AI-geletterdheid, bewustwording"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Basistraining AI\n",
+      "Beschrijving": "Leer de basis van AI in een gratis en toegankelijke cursus.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://www.ai-cursus.nl/",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, AI-geletterdheid, bewustwording"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Vervolgtraining AI en ethiek\n",
+      "Beschrijving": "Heb je vragen over de maatschappelijke impact van AI? Bij deze e-learning wordt daar op ingegaan.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://www.tech-cursus.nl/app/16-ai-en-ethiek/home",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, ethiek, AI-geletterdheid, bewustwording"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Data-geletterdheid",
+      "Beschrijving": "Overweldigd door een stortvloed aan data? Niet gevreesd! De vaardigheden die bij datageletterdheid horen leer je zo. Sommige heb je misschien zelfs allang in de vingers!",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/233195/datageletterdheid",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "analyse, data, datagedreven, digitaal werken, digitale vaardigheden, kunstmatige intelligentie, data-geletterdheid, bewustwording"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Goodhabitz Generatieve AI",
+      "Beschrijving": "In de les Generatieve AI leer je wat generatieve AI precies is. Denk aan toepassingen zoals DALL-E, Midjourney en ChatGPT. Wat doen deze tools, hoe werken ze, en hoe kun je ze slim inzetten in je eigen werk?",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/444286/generatieve-ai",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, AI-geletterdheid, bewustwording, Generatieve AI, GenAI"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Goodhabitz Verantwoord gebruik van AI ",
+      "Beschrijving": "In deze les gaat het over de keerzijde van deze technologie. AI biedt kansen, maar brengt ook risico’s met zich mee. Je leert hoe je AI op een bewuste en zorgvuldige manier inzet – van het verwerken van gegevens tot het inschatten van risico’s.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/444184/verantwoord-ai-gebruik",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, AI-geletterdheid, bewustwording, Generatieve AI, GenAI, verantwoord gebruik"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Goodhabitz Promptvaardigheden ",
+      "Beschrijving": "In Promptvaardigheden ontdek je hoe je betere vragen stelt aan AI-systemen, zodat je ook betere antwoorden krijgt. Deze les bevat een AI-gestuurde activiteit waarmee je zelf feedback ontvangt op je prompts.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/443987/effectieve-prompts-schrijven",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, AI-geletterdheid, bewustwording, Generatieve AI, GenAI, promptvaardigheden"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Goodhabitz AI op het werk ",
+      "Beschrijving": "De les AI op het werk laat zien hoe AI je kan helpen om ideeën te genereren, tijd te besparen en slimmer te werken. Je leert hoe je dat doet, en je gaat ook zelf aan de slag met een AI-opdracht.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://sofie-rotterdam.studytube.nl/courses/444025/ai-op-het-werk",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "AI, algoritmen, kunstmatige intelligentie, technologie, AI-geletterdheid, bewustwording, Generatieve AI, GenAI, AI in het werk"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Digitale Weerbaarheid",
+      "Beschrijving": "Train jezelf in het herkennen van onveilige situaties! Geef online oplichters geen kans. Versterk jouw digitale weerbaarheid met korte lessen.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://www.digitale-weerbaarheid.nl/",
+      "Vorm": "E-learning",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Digitale weerbaarheid, vaardigheden"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Lezen over AI-geletterdheid\n",
+      "Beschrijving": "Vergroot je begrip en vaardigheden in het werken met AI.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/YFNci_YbVESYQ6XPPCktCQ",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, AI-geletterdheid"
+    },
+    {
+      "Thema": "Kunstmatige Intelligentie",
+      "Titel": "Stripboek AI-geletterdheid",
+      "Beschrijving": "Basiskennis van AI belangrijk. Dat noemen we AI-geletterdheid. Dit is een onderdeel van Digitale Fitheid: kunnen meebewegen in een digitale werkomgeving. In dit stripboek gaat de Digicoach op ontdekkingstocht. Ze stelt vragen, verwondert zich en leert wat écht belangrijk is. Hopelijk maakt het jou ook nieuwsgierig.",
+      "Persona": "Alle medewerkers",
+      "URL": "https://online.fliphtml5.com/brlks/xhwc",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "Stripboek, Digicoach, AI-geletterdheid"
+    },
+    {
+      "Thema": "Metaverse",
+      "Titel": "RIO-pagina Metaverse",
+      "Beschrijving": "Een digitale wereld waar grenzen vervagen en kansen ontstaan",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/VDuUTymkO0OQ4i4YFSx_fw",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk"
+    },
+    {
+      "Thema": "Robotisering",
+      "Titel": "Robotisering\n",
+      "Beschrijving": "Slim automatiseren voor meer tijd en focus op wat echt telt",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rio.rotterdam.nl/Project/FutureWorkskills/Pages/V6DwqNWd406gyetJcugbRQ",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, Robotisering"
+    },
+    {
+      "Thema": "Virtuele Assistent",
+      "Titel": "Virtuele Assistent (Robotic Process Automation)\n",
+      "Beschrijving": "Efficiënte ondersteuning met slimme technologie aan je zijde",
+      "Persona": "Alle medewerkers",
+      "URL": "https://rotterdam.topdesk.net/tas/public/ssp/content/detail/service?unid=91a0b08bb1e04ae085681199abce8263",
+      "Vorm": "Informatie",
+      "Niveau": "Basis",
+      "Zoekwoorden": "RIO, informatie-uitwisseling, kennisdelen, netwerk, RPA, Virtuele Assistent"
+    }
+  ]
+}
